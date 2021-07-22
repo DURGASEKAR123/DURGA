@@ -39,4 +39,10 @@ public class JavaUnit_two
      System.out.println("test method 1");
      System.out.println("test 2");
 	}
+	@Test
+	public void Branch2Method() 
+	{
+     System.out.println("test method 2");
+	}
+
 }
