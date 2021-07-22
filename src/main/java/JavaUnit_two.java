@@ -7,6 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
+
 public class JavaUnit_two 
 { 
 	@BeforeClass
@@ -39,4 +40,11 @@ public class JavaUnit_two
      System.out.println("test method 1");
      System.out.println("test 2");
 	}
+	@Test
+	public void gitmethodofBranch1() 
+	{
+     System.out.println("test method 1");
+	}
+	
+	 
 }
